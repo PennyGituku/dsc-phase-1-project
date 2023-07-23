@@ -1,5 +1,8 @@
 # Phase 1 Project
 
+![microsoft](https://github.com/PennyGituku/dsc-phase-1-project/assets/133040605/c78b951a-91c8-4056-897e-e25d3a72e01a)
+
+
 # MICROSOFT MOVIE STUDIO PROJECT STRATEGY
 # AUTHOR: PENINAH WAMBUI GITUKU
 
@@ -34,6 +37,8 @@ These data sets focus mostly on the various movie studios, revenue generated, ge
 
 ## METHODOLOGY
 
+![data-cleansing](https://github.com/PennyGituku/dsc-phase-1-project/assets/133040605/c3b83118-879b-46f9-bea6-f592a08996e4)
+
 Data was pre-processed and cleaned by:
 
 >Viewing the data set and data type.
@@ -45,6 +50,9 @@ Data was analyzed and visualized by tools like:
 >Vertical and horizontal graphs, line graphs and scatter plots.
 
 ## RESULTS
+
+![avengers-avengers-endgame](https://github.com/PennyGituku/dsc-phase-1-project/assets/133040605/64508e7c-b35b-4c23-af34-61497a28f769)
+
 
 ## Top 10 Titles by Domestic and Foreign Gross
 ## Top 10 Studios by Domestic and Foreign Gross
@@ -148,3 +156,4 @@ Create a strong fan base by making merchandise that will also bring in revenue w
 
 Please view the full data analysis on the Jupyter Notebook (student.ipynb) and the presentation.
 
+![end](https://github.com/PennyGituku/dsc-phase-1-project/assets/133040605/6f68fc87-3eef-4f85-a1cd-f7645a104de8)
