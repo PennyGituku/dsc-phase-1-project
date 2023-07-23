@@ -45,6 +45,8 @@ Data was pre-processed and cleaned by:
 >Checking for missing values. 
 >Checking for duplicate values.
 
+![DataVisualization](https://github.com/PennyGituku/dsc-phase-1-project/assets/133040605/bfcbe942-64a6-49da-a1d2-40c7a9c47697)
+
 Data was analyzed and visualized by tools like:
 
 >Vertical and horizontal graphs, line graphs and scatter plots.
