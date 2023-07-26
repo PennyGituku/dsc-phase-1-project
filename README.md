@@ -147,9 +147,9 @@ Microsoft needs a big production budget as it translates to successful gross inc
 
 Movie genres to prioritize are adventure, comedy, and romance to name a few as they were highly ranked and had high gross income.
 
-Research top-tier content and the latest trends to incorporate in movies such as the latest stories or technology to be used in movie making such as (Computer Generated  Images CGI).
+Research top-tier content and the latest trends to incorporate in movies such as the latest stories or technology to be used in movie making such as Computer Generated  Images (CGI).
 
-Create a very strong marketing team to ensure the success of the movies both locally and internationally as worldwide groos had the highest correlation to profit.
+Create a very strong marketing team to ensure the success of the movies both locally and internationally as worldwide gross had the highest correlation to profit.
 
 Create a strong fan base by making merchandise that will also bring in revenue which can be channeled into the production budget which is a key factor in determining the success of movies.
 
